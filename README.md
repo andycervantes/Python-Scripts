@@ -1,6 +1,8 @@
 # Python-Scripts
 Repo for Python Scripts
 
+Using Python 3 under Windows enviroment.
+
 To run in Windows enviroment open cmd prompt and type:
 python metroTransitScript.py "route name" "stop name" "direction"
 
